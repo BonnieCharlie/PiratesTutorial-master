@@ -26,3 +26,5 @@ To build this project, you will need access to the [SpatialOS SDK](https://spati
 If you run into problems, or want to give us feedback, please visit the [SpatialOS forums](https://forums.improbable.io/).
 
 cd Desktop/Magistrale/I\ anno/Software\ Engineering/SpatialOS/PiratesTutorial-master/
+
+ciao ciao
